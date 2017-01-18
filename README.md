@@ -6,7 +6,7 @@
 
 ## Hexagon
 
-<img src="https://raw.githubusercontent.com/codeforniederrhein/promo/master/hexagon.png" width="400" alt="Hexagon">
+<img src="https://raw.githubusercontent.com/codeforniederrhein/promo/master/hexagon.png" alt="Hexagon">
 
 
 *Thanks Phil Ninh & Marcel Sowade <3*
